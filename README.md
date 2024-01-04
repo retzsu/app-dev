@@ -1,2 +1,7 @@
 # app-dev
-My first repository
+**My favorite movies**
+- Marvels Movies
+- Harry Potter
+- Mazed Runner
+- Disney Movies
+
